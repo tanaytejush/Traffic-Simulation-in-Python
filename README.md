@@ -31,3 +31,8 @@ Current state of traffic light: yellow
 - Different durations for each light colour
 - Multiple intersections or cars
 - A graphical view with `pygame` or `tkinter`
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
